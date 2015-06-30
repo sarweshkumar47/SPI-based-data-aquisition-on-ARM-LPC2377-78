@@ -1,4 +1,4 @@
-# SPI-based-data-aquisition-on-MCB2300
+# SPI-based-data-aquisition-on-ARM LPC2378 (MCB2300)
 
 SPI Master slave module on ARM LPC23XX for data aquisition
 
@@ -11,6 +11,13 @@ Simple application based on LPC2377/78 Microcontroller. Program has been develop
                        |			                   |
                Temperature Sensor 	            Pressure Sensor
 
+
+Software Tools:
+      Keil V4
+      
+Hardware:
+      LPC2378/88 (MCB2300)
+      
 Brief description about the project:
 
 1. Temperature sensor (may be an analog pot) is connected to an analog input of the System 1 (Slave device)
