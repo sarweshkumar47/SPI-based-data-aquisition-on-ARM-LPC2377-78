@@ -6,10 +6,10 @@ Simple application based on LPC2377/78 Microcontroller. Program has been develop
 
 
 
-       (Slave)		SPI	      (Master)
-      System 1 <--------------------> System 2 -- LCD
-         |			         |
-  Temperature Sensor 	          Pressure Sensor
+                    (Slave)	        SPI	    (Master)
+                    System 1 <--------------------> System 2 ---- LCD
+                      |			               |
+              Temperature Sensor 	          Pressure Sensor
 
 
 --> Temperature sensor (may be an analog pot) is connected to an analog input of the System 1 (Slave device)
