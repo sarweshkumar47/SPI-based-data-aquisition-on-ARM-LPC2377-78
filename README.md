@@ -13,9 +13,11 @@ Simple application based on LPC2377/78 Microcontroller. Program has been develop
 
 
 Software Tools:
+
       Keil V4
       
 Hardware:
+
       LPC2378/88 (MCB2300)
       
 Brief description about the project:
