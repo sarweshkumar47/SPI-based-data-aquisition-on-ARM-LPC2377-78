@@ -2,7 +2,7 @@
 
 ### SPI Master slave module on ARM LPC23XX for data aquisition
 
-##### Simple application on LPC2377/78 Microcontroller. Program has been developed using Keil tool.
+Simple application on LPC2377/78 Microcontroller. Program has been developed using Keil tool.
 
 
 
