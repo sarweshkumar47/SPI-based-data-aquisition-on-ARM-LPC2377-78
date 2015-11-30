@@ -30,9 +30,7 @@ Simple application on LPC2377/78 Microcontroller. Program has been developed usi
 
 ### Steps:
 
---> Create 2 projects on Keil
-
---> Add pressure_system2_lcd.c file to the first project and temperature_system1.c to the second project
-
--->Compile each project and upload it on two MCB2300 boards
+* Create 2 projects on Keil
+* Add pressure_system2_lcd.c file to the first project and temperature_system1.c to the second project
+* Compile each project and upload it on two MCB2300 boards
 
