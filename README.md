@@ -12,7 +12,6 @@ Simple application on LPC2377/78 Microcontroller. Program has been developed usi
                Temperature Sensor 	            Pressure Sensor
 
 ### Software Tools
-==================
       Keil V4
       
 ### Hardware
